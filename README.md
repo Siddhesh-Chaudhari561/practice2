@@ -1,3 +1,3 @@
 # practice2
 <br>
-Author  - Siddhesh Chaudhari
+<h1>Author  - Siddhesh Chaudhari</h1>
